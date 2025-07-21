@@ -22,23 +22,23 @@ An advanced **Open Source Intelligence (OSINT)** command-line tool built in Pyth
 
 1. Clone the repo:
 
-   ```bash
+```bash
    git clone https://github.com/anbuinfosec/advanced-osint-tool.git
    cd advanced-osint-tool
-````
+```
 
 2. Create a virtual environment and activate it (recommended):
 
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
-   ```
+```bash
+python3 -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+```
 
 3. Install dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
