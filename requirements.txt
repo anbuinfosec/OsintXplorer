@@ -1,0 +1,6 @@
+requests
+python-whois
+phonenumbers
+exifread
+reportlab
+tabulate
